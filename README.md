@@ -1,4 +1,4 @@
-# Nandini's Developer Portfolio
+# Samiksha's Developer Portfolio
 
 ## Project Overview
 This is my first project is a personal portfolio website,

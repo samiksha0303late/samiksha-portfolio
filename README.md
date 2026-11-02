@@ -239,4 +239,4 @@ This task helped me understand how JavaScript makes a static HTML and CSS websit
 
 **Student Name:** Samiksha Late  
 **Internship:** The Developers Arena  
-**Task:** Week 3 – JavaScript
+**Task:** Week 3 – JavaScript knowledge

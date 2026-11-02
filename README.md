@@ -182,3 +182,61 @@ The project demonstrates how CSS can transform a basic HTML page into an attract
 **Course:** Bachelor of Computer Science  
 **Task:** Week 2 – CSS Styling Your Website  
 **Year:** 2026
+
+# Samiksha Late - Personal Portfolio Website
+
+**The Developers Arena – Web Development Internship**
+
+**Task:** Week 3 – JavaScript: Adding Interactivity to Your Website
+
+## 1. Project Overview
+This project is a personal portfolio website created to introduce myself, showcase my skills and projects, and provide contact information. JavaScript was added to make the website interactive and user-friendly.
+
+## 2. Objectives
+- Add JavaScript functionality to the portfolio website.
+- Implement smooth navigation.
+- Add contact form validation.
+- Create a Back to Top button.
+- Improve user interaction.
+
+## 3. Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Visual Studio Code
+- Google Chrome
+
+## 4. JavaScript Features
+- Smooth scrolling navigation.
+- Contact form validation.
+- Success message after form submission.
+- Dynamic Back to Top button.
+- Console welcome message.
+
+## 5. Project Folder Structure
+
+```text
+Samiksha-Portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+└── profile.jpeg
+```
+
+## 6. Output
+The portfolio website displays personal information, skills, projects and contact details. JavaScript adds interactive navigation, form validation and a Back to Top button.
+
+## 7. Learning Outcomes
+- Understood JavaScript basics.
+- Learned DOM manipulation.
+- Practiced event handling.
+- Learned form validation.
+- Improved website interactivity.
+
+## 8. Conclusion
+This task helped me understand how JavaScript makes a static HTML and CSS website interactive. I successfully added basic JavaScript features to improve the portfolio website.
+
+**Student Name:** Samiksha Late  
+**Internship:** The Developers Arena  
+**Task:** Week 3 – JavaScript
